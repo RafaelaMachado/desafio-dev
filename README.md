@@ -1,11 +1,11 @@
 # Desafio desafiador para ninjas do código
-Este é um teste para desenvolvedores com interesse em fazer parte da equipe de ninjas do código da Sofit! :v:
+Este é um teste para desenvolvedores com interesse em fazer parte da equipe de ninjas do código :v:
 ### Objetivo
 Desenvolver uma API REST para um CRUD de cadastro de veículos que se comunique com o front-end disponibilizado.
 ### O que você precisa fazer:
 1. Faça um fork desse repositório;
 2. Desenvolva o objetivo proposto;
-3. Ao finalizar, envie um e-mail para desenvolvimento@sofit4.com.br com o link de acesso ao seu repositório.
+3. Ao finalizar, envie um e-mail com o link de acesso ao seu repositório.
 
 ### Configurando seu ambiente
 1. Você vai precisar instalar (ou se já possui instalado) os seguintes pacotes/ferramentas:
